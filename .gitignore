@@ -3,4 +3,4 @@
 
 # Ada Library Information
 *.ali
-.index.css
+/index.css
